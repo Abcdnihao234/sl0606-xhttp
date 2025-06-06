@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/Abcdnihao234/xhttp16:latest
+          tags: ghcr.io/abcdnihao234/xhttp6:latest
